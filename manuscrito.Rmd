@@ -8,11 +8,11 @@ output:
     template: svm-latex-ms.tex
     number_sections: true
 title: | 
-        | Mis hormigas
+        | Jodicion
         | Subtítulo
         | Subtítulo
 author:
-- name: Tali tali tali
+- name: Enrique A. García Vargas
   affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
 abstract: "Mi resumen"
 keywords: "palabra clave 1, palabra clave 2"
@@ -28,13 +28,17 @@ header-includes:
   \usepackage{pdflscape}
   \newcommand{\blandscape}{\begin{landscape}}
   \newcommand{\elandscape}{\end{landscape}}
+editor_options: 
+  chunk_output_type: console
 ---
 
 # Introducción
 
-\ldots
+Los insectos son el grupo mas numeroso de animales en el mundo gracias a su capasidad de adaptacion [te dije que no]. Uno de los insectos mas diversos y numerosos son las hormigas las cuales han sido capases de poblar casi cada habitat terrestre en el mundo [@lapolla2018new]. 
 
 # Metodología
+
+segun @anzotegui2019evolucion
 
 \ldots
 
